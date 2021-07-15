@@ -6,6 +6,7 @@
   - Detect face masks in images
   - Detect face masks in video
   - Detect face masks in real-time video streams
+  - Detect fake mask by covering mouth and nose by hand
 - Solution:
   - Detecting faces in images/video
   - Extracting each individual face
