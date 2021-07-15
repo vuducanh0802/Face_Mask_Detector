@@ -11,12 +11,14 @@
   - Extracting each individual face
   - Applying our face mask classifier
   
- ## FRAMEWORK USED ##
+ ## TECHSTACK/FRAMEWORK USED ##
 - OpenCV
 - Mediapipe
 - Tensorflow
 - Keras
 - Flask
+- Caffe-based face detector
+- MobileNetV2
 
 ## INSTALLATION AND RUNNING ##
 1. Clone the repo
