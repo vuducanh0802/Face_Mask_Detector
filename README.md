@@ -46,5 +46,4 @@
 - [Pyimagesearch](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 - [Mobilenet model](https://phamdinhkhanh.github.io/2020/09/19/MobileNet.html#6-t%C3%A0i-li%E1%BB%87u)
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks - Mark Sandler, Andrew Howard](https://arxiv.org/abs/1801.04381)
-- [Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
 - [Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision](https://www.youtube.com/watch?v=NZde8Xt78Iw)
